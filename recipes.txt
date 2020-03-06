@@ -5,7 +5,12 @@ Rice
 Pasta
 chicken
 
+beans
+pizza
 
 Good bye
 
+done my changes
+
 Final copy
+
