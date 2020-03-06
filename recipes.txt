@@ -5,5 +5,7 @@ Rice
 Pasta
 chicken
 
+beans
+pizza
 
 Good bye
